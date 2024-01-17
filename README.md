@@ -22,7 +22,7 @@ Reverse Tcp Tunnel with custom sni handshake
 Clone the project
 
 ```bash
-  bash -c "$(curl -L https://raw.githubusercontent.com/azadrahorg/RTT-Tunnel-Helper/main/RTT-Tunnel-Helper.sh)"
+bash -c "$(curl -L https://raw.githubusercontent.com/azadrahorg/RTT-Tunnel-Helper/main/RTT-Tunnel-Helper.sh)"
 ```
 
 ### How to Manage
